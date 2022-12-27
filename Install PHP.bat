@@ -32,10 +32,10 @@ ECHO.&ECHO   Install OK.&ECHO.&Pause
 :8
 cls
 ECHO.
-::curl -L https://windows.php.net/downloads/releases/php-8.2.0-nts-Win32-vs16-x64.zip -o "%Temp%\php-8.2.0-nts-Win32-vs16-x64.zip"
+curl -L https://windows.php.net/downloads/releases/php-8.2.0-nts-Win32-vs16-x64.zip -o "%Temp%\php-8.2.0-nts-Win32-vs16-x64.zip"
 cls
 ECHO.
-::PowerShell -Command "Expand-Archive -Path "C:\Users\%UserName%\AppData\Local\Temp\php-8.2.0-nts-Win32-vs16-x64.zip" -DestinationPath "C:\Users\%UserName%\AppData\Local\Temp\php-8.2.0-nts-Win32-vs16-x64" -Force"
+PowerShell -Command "Expand-Archive -Path "C:\Users\%UserName%\AppData\Local\Temp\php-8.2.0-nts-Win32-vs16-x64.zip" -DestinationPath "C:\Users\%UserName%\AppData\Local\Temp\php-8.2.0-nts-Win32-vs16-x64" -Force"
 cls
 RD "C:\PHP" /S /Q                                                    2>nul >nul
 MD "C:\PHP"                                                          2>nul >nul
