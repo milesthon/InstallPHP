@@ -1,4 +1,4 @@
-# InstallPHP
+# Install PHP
 ***
 #### [YouTube](https://YouTube.com/mmichaelKo) | [VK](https://VK.com/id180544766) | [Twitch](https://Twitch.tv/mmichaelKo) | [Instagram](https://Instagram.com/mmichaelKo) | [TikTok](https://TikTok.com/@mmichaelko)
 ***
