@@ -8,7 +8,7 @@ Automatically downloads, installs and configures php for the command line.
 Автоматически скачивает, устанавливает и настраивает пхп для командной строки.
 
 <div align="center">
-<img alt="Image" src="https://github.com/mmichaelKo/InstallPHP/blob/main/Image.png"/>
+<img alt="Image" src="https://github.com/MilesthoN/InstallPHP/blob/main/Image.png"/>
 
 ***
 by MilesthoN
